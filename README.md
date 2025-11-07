@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushanta Paul</h1>
+
 <h3 align="center">Professional Web Designer & Developer | Wordpress Expert | Systems Management & Digital Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushanta2311&label=Profile%20views&color=0e75b6&style=flat" alt="sushanta2311" /> </p>
