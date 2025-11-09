@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQH8JbXl158aIg/profile-displaybackgroundimage-shrink_350_1400/B56ZpN6pbrG0AY-/0/1762243813158?e=1764201600&v=beta&t=P07H0PuKmi7ReM2uTv8FsouoAI-MguKJok0Sro84yZA">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQH1VoweARTKug/profile-displaybackgroundimage-shrink_350_1400/B56ZpmsLLmH8Ag-/0/1762659448590?e=1764201600&v=beta&t=3Iz-Qb4NTCFokRylBnulMCegPYl5rB42cVgCcandC2o">
 
 <h3 align="center">Professional Web Designer & Developer | Wordpress Expert | Systems Management & Digital Solutions</h3>
 
